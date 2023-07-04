@@ -27,3 +27,10 @@ Sources:
     - line_chart_months.js
     - other_horizontal_pedes_action.js
     - time_day.js
+
+### Screenshots of webpage
+![page1](https://github.com/ksarussi/data_viz_car_crashes_with_pedestrians/assets/90337107/c141a0f7-7dab-4e9e-a65f-8700495563e0)
+![page2](https://github.com/ksarussi/data_viz_car_crashes_with_pedestrians/assets/90337107/0a009813-3a36-403d-88d3-fc0ebaaae447)
+![page3](https://github.com/ksarussi/data_viz_car_crashes_with_pedestrians/assets/90337107/c228abd3-35ef-456d-8935-15b9ba805c0a)
+![page4](https://github.com/ksarussi/data_viz_car_crashes_with_pedestrians/assets/90337107/315d8116-c444-4b47-a1a5-f5c768a6c9c4)
+![page5](https://github.com/ksarussi/data_viz_car_crashes_with_pedestrians/assets/90337107/fa523ad5-e4f4-457c-9e13-0ea057128fa8)
