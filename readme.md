@@ -4,6 +4,9 @@
 
 This includes an analysis and visualization of crashes involving pedestrians in Chicago. The .js and .html files in the top level provide explanations and visualizations of the underlying data. The cleaned data is stored in the data directory.
 
+### Link to webpage
+https://ksarussi.github.io/CAPP30239_FA22/final_project/chicago_pedestrian_crashes.html
+
 ### Data folder
 Includes all data used to create the charts and analysis.
 
