@@ -1,0 +1,129 @@
+svg {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1000px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+* {
+    font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+}
+
+#bees {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#grids {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#lines {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#bars1 {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#bars2 {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#area_chart {
+    border: 5px solid #002051;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 90%;
+    max-width: 800px;
+    height: 50%;
+    overflow: auto;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.flex-container .flex-item {
+    width: 75%;
+    min-height: 150%;
+    margin: 5px;
+}
+
+#line_chart line {
+    stroke: #ddd;
+    stroke-dasharray: 0;
+}
+
+#line_chart path.domain {
+    display: none;
+}
+
+#line_chart text {
+    font-size: 11px;
+}
+
+#peds_action text {
+    font-size: 12px;
+}
+
+#area_chart_observable text {
+    font-size: 14px;
+}
+
+#horizontal-chart text {
+    font-size: 19.5px;
+}
+
+#my_dataviz2 text {
+    font-size: 11px;
+}
+
+.divided {
+    display: flex;
+    align-items: center;
+}
+
+.divider {
+    flex-grow: 1;
+    border-bottom: 1px solid rgb(46, 45, 45);
+    margin: 5px
+}
+
+@media only screen and (max-width: 600px) {
+    .flex-container {
+        display: block;
+        width: 80%;
+        height: auto;
+    }
+
+    .flex-container .flex-item {
+        min-height: auto;
+    }
+}
